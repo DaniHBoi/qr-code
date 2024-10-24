@@ -1,0 +1,42 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+.container {
+  width: 100%;
+  min-height: 100vh;
+  background: #d5e1ef;
+  padding: 10px;
+}
+
+.widget {
+  margin: 100px auto 20px;
+  width: 100%;
+  max-width: 300px;
+  background: #ffffff;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.qr img {
+  width: 100%;
+  border-radius: 20px;
+}
+
+.widget-info h3 {
+  text-align: center;
+  padding: 20px 0;
+  font-size: 25px;
+}
+
+.widget-info p {
+  font-size: 15px;
+  text-align: center;
+  padding-bottom: 20px;
+}
