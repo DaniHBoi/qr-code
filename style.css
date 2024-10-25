@@ -31,12 +31,12 @@ body {
 
 .widget-info h3 {
   text-align: center;
-  padding: 20px 0;
-  font-size: 25px;
+  padding: 20px 20px;
+  font-size: 20px;
 }
 
 .widget-info p {
-  font-size: 15px;
+  font-size: 14px;
   text-align: center;
-  padding-bottom: 20px;
+  padding: 0 20px 20px 20px;
 }
