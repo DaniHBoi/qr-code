@@ -6,7 +6,7 @@
   padding: 0;
 }
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Outfit", sans-serif;
 }
 .container {
   width: 100%;
@@ -31,12 +31,12 @@ body {
 
 .widget-info h3 {
   text-align: center;
-  padding: 20px 20px;
+  padding: 15px;
   font-size: 20px;
 }
 
 .widget-info p {
-  font-size: 14px;
+  font-size: 15px;
   text-align: center;
-  padding: 0 20px 20px 20px;
+  padding: 0 10px 20px 10px;
 }
